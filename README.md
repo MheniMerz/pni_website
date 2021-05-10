@@ -10,3 +10,5 @@ webpage for the PNI network
    ```
         sh ./build_and_run.sh
    ```
+   > NOTE: if you are on Ubuntu make sure to use `apt` instead of `yum`
+   > follow the comments in the script. 
