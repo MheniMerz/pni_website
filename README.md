@@ -12,3 +12,5 @@ webpage for the PNI network
    ```
    > NOTE: if you are on Ubuntu make sure to use `apt` instead of `yum`
    > follow the comments in the script. 
+
+the website should be available on http://locahost
